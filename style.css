@@ -1,0 +1,13 @@
+.top-form {
+    display: flex;
+    align-items: baseline;
+}
+
+.topleft-form {
+    margin-right: 4em;
+}
+
+.registration {
+    display: flex;
+    justify-content: center;
+}
