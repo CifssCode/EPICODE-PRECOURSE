@@ -1,4 +1,4 @@
 Hello everyone.
-This is my repository for Epicode's precourse challenges.
-You can find all my challenges in the branches.
+This is my third challenge from Epicoce Precourse.
+You can find my birth place with a little description and five of the most populated city nearby.
 Thanks!
