@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Prata&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: auto;
+}
+
+.main-section {
+    padding: 20px;
+}
+
+.Matera {
+    height: 500px;
+    background-image: url(https://www.thetrainline.com/cms/media/1415/italy-matera-basilicata.jpg?mode=crop&width=860&height=574&quality=70);
+    background-repeat: no-repeat;
+}
+
+.Policoro {
+    height: 500px;
+    background-image: url(http://www.basileusonline.it/images/basilicata/paesi/policoro.jpg);
+    background-repeat: no-repeat;
+}
+
+.Pisticci {
+    height: 650px;
+    background-image: url(https://www.lucanafilmcommission.it/web/wp-content/uploads/2021/07/pisticci-5-lucana-film-commission-promozione-industria-cinema-audio-visivo-fiction-serie-tv-spot-documentari-basilicata.jpg);
+    background-repeat: no-repeat;
+}
+ .Bernalda {
+    height: 500px;
+    background-image: url(https://images.placesonline.com/photos/424012611180233_Bernalda_1187500366.jpg?quality=80&w=710&h=510&mode=crop);
+    background-repeat: no-repeat;
+}
+.Montescaglioso {
+    height: 650px;
+    background-image: url(https://www.wifi.italia.it/images/Montescaglioso.jpeg);
+    background-repeat: no-repeat;
+}
+.Ferrandina {
+    height: 500px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/c/cc/Ferrandina0001.jpg);
+    background-repeat: no-repeat;
+}
+.location {
+    color: white;
+    font-family: 'Prata', serif;
+    font-size: 64px;
+    font-weight: 400;
+    margin: 0;
+}
+
+.region {
+    color: white;
+    font-family: 'Prata', serif;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h5 {
+    margin-top: 0;
+    font-weight: 600;
+    font-style: italic;
+}
+
+h6 {
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    background: linear-gradient(90deg, #002eff, white);
+    border-radius: 6px 6px 6px 6px;
+}
+
+ul {
+    padding: initial;
+}
+
+li {
+    display: block;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 22px;
+    border-bottom: 1px solid #dfdfdf;
+}
+
+.nearby {
+    text-decoration: none;
+    color: #002eff;
+}
+
+.near-Bernalda {
+    text-decoration: none;
+    color: red;
+}
+
+.near-Ferrandina {
+    text-decoration: none;
+    color: green;
+}
+
+.capoluogo {
+    font-size: 2em;
+    color: black;
+}
+footer {
+    background-color: black;
+    color: white;
+    padding: 16px;
+}
